@@ -1,0 +1,8 @@
+C:\Users\Ivan\documents\visual studio 2012\Projects\Volnovod\Volnovod\bin\Release\Volnovod.exe.config
+C:\Users\Ivan\documents\visual studio 2012\Projects\Volnovod\Volnovod\bin\Release\Volnovod.exe
+C:\Users\Ivan\documents\visual studio 2012\Projects\Volnovod\Volnovod\bin\Release\Volnovod.pdb
+C:\Users\Ivan\documents\visual studio 2012\Projects\Volnovod\Volnovod\obj\Release\Volnovod.Form1.resources
+C:\Users\Ivan\documents\visual studio 2012\Projects\Volnovod\Volnovod\obj\Release\Volnovod.Properties.Resources.resources
+C:\Users\Ivan\documents\visual studio 2012\Projects\Volnovod\Volnovod\obj\Release\Volnovod.csproj.GenerateResource.Cache
+C:\Users\Ivan\documents\visual studio 2012\Projects\Volnovod\Volnovod\obj\Release\Volnovod.exe
+C:\Users\Ivan\documents\visual studio 2012\Projects\Volnovod\Volnovod\obj\Release\Volnovod.pdb
